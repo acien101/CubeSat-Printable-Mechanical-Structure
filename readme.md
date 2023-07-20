@@ -18,16 +18,16 @@ The materials needed for the assembly are:
 
 ### Photos
 
-![](.\pics\explode_0.JPG)
+![](./pics/explode_0.JPG)
 
-![](.\pics\explode_1.JPG)
+![](./pics/explode_1.JPG)
 
-![](.\pics\Render.JPG)
+![](./pics/Render.JPG)
 
-![](.\pics\Render_2.JPG)
+![](./pics/Render_2.JPG)
 
-![](.\pics\explode_0.JPG)
+![](./pics/explode_0.JPG)
 
-![](.\pics\real_0.jpg)
+![](./pics/real_0.jpg)
 
-![](.\pics\real_2.jpg)
+![](./pics/real_2.jpg)
